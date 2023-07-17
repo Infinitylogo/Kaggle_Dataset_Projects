@@ -2,5 +2,6 @@
 Deep learning, Nlp, Machine learning algorithms from scratch, or other EDA projects.
 
 References: 
-Kaggle platform
+<pre> Kaggle platform
 All the contributors/coders who helped in learning machine learning.
+</pre>
